@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://bandegangasai.github.io/sitemap.xml
