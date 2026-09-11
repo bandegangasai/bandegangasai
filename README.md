@@ -4,9 +4,14 @@
   
   **Software Engineer | Applied AI & Full-Stack Developer**
   
+  [![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-bandegangasai.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bandegangasai.github.io/bandegangasai/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bande_Gangasai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bande-gangasai/)
+  [![Resume](https://img.shields.io/badge/Download_Resume-PDF-E53E3E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://bandegangasai.github.io/bandegangasai/resume.pdf)
   [![Email](https://img.shields.io/badge/Email-bandegangasai2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandegangasai2@gmail.com)
-  [![Location](https://img.shields.io/badge/Location-Hyderabad,_India-grey?style=for-the-badge&logo=googlemaps&logoColor=red)](https://maps.google.com)
+
+  <br/>
+
+  <h3>🌟 <a href="https://bandegangasai.github.io/bandegangasai/">👉 Explore My Interactive 15-Section Portfolio Website 👈</a></h3>
 
 </div>
 
@@ -17,6 +22,7 @@
 - 🎓 **Education:** B.Tech in Information Technology at **Anurag University**, Hyderabad.
 - 💡 **Passion:** Building end-to-end web applications, computer vision systems, and data analytics pipelines with production-grade code.
 - 🛠️ **Focus:** Clean REST APIs, Docker containerization, automated testing (Pytest), and accessible frontend architectures.
+- 🎯 **Target Roles:** Software Engineer | Full-Stack Developer | AI/ML Engineer.
 
 ---
 
@@ -91,6 +97,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bandegangasai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gangasai's GitHub Stats" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandegangasai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
@@ -98,5 +105,5 @@
 
 <div align="center">
   <i>"Building intelligent, practical, and scalable software solutions."</i><br/>
-  📫 Let's connect: <a href="https://www.linkedin.com/in/bande-gangasai/">LinkedIn</a> | <a href="mailto:bandegangasai2@gmail.com">Email</a>
+  📫 <b>Portfolio:</b> <a href="https://bandegangasai.github.io/bandegangasai/">bandegangasai.github.io/bandegangasai</a> | <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/bande-gangasai/">Bande Gangasai</a> | <b>Email:</b> <a href="mailto:bandegangasai2@gmail.com">bandegangasai2@gmail.com</a>
 </div>
